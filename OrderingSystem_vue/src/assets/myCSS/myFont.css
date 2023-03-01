@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "myFont"; /* Project id  */
+    src: url('./myFont.ttf') format('truetype');/* Safari, Android, iOS */
+    font-weight: normal;
+    font-style: normal;
+}

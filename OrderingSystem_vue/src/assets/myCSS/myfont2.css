@@ -1,0 +1,14 @@
+@charset "UTF-8";
+@font-face {
+    
+    font-family: "myfont2"; /* Project id  */
+    src: url('./myfont2.ttf') format('truetype');/* Safari, Android, iOS */
+
+	/* src: url('./HYL2MJN2.eot'); */
+	 src: /*url('./HYL2MJN2.eot?#iefix') format('embedded-opentype'), */
+		url('./myfont2.woof') format('woff'),
+		/* url('./HYL2MJN2.svg#webfont34M5alKg') format('svg'); */
+        url('./myfont2.otf') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
